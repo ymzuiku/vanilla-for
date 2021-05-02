@@ -1,7 +1,7 @@
 {
   "name": "vanilla-for",
-  "version": "0.1.4",
-  "main": "umd/index.js",
+  "version": "0.1.6",
+  "main": "es/index.js",
   "types": "lib/index.ts",
   "exports": {
     "import": "./lib/index.ts"
