@@ -1,6 +1,6 @@
 {
   "name": "vanilla-for",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "main": "umd/index.js",
   "types": "lib/index.ts",
   "exports": {
@@ -20,13 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ymzuiku/vanilla-ob.git"
+    "url": "git+https://github.com/ymzuiku/vanilla-for.git"
   },
   "bugs": {
-    "url": "git+https://github.com/ymzuiku/vanilla-ob.git"
+    "url": "git+https://github.com/ymzuiku/vanilla-for.git"
   },
-  "homepage": "git+https://github.com/ymzuiku/vanilla-ob.git",
-  "dependencies": {
-    "immer": "^9.0.2"
-  }
+  "homepage": "git+https://github.com/ymzuiku/vanilla-for.git"
 }

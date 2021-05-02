@@ -2,15 +2,11 @@ lockfileVersion: 5.3
 
 specifiers:
   fs-extra: ^9.1.0
-  immer: ^9.0.2
   rollup: ^1.24.0
   rollup-plugin-typescript2: ^0.24.3
   rollup-plugin-uglify: ^6.0.3
   tslib: ^2.2.0
   typescript: 3.5.2
-
-dependencies:
-  immer: 9.0.2
 
 devDependencies:
   fs-extra: 9.1.0
@@ -142,10 +138,6 @@ packages:
     resolution: {integrity: sha1-tdRU3CGZriJWmfNGfloH87lVuv0=}
     engines: {node: '>=4'}
     dev: true
-
-  /immer/9.0.2:
-    resolution: {integrity: sha512-mkcmzLtIfSp40vAqteRr1MbWNSoI7JE+/PB36FNPoSfJ9RQRmNKuTYCjKkyXyuq3Dgn07HuJBrwJd4ZSk2yUbw==}
-    dev: false
 
   /jest-worker/24.9.0:
     resolution: {integrity: sha512-51PE4haMSXcHohnSMdM42anbvZANYTqMrr52tVKPqqsPJMzoP6FYYDVqahX/HrAoKEKz3uUPzSvKs9A3qR4iVw==}

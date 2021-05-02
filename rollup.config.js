@@ -37,7 +37,7 @@ const watchOptions = [
     output: {
       file: './umd/index.js',
       format: 'umd',
-      name: 'Ob',
+      name: 'For',
       sourcemap: true,
       globals: {
         immer: 'immer'
