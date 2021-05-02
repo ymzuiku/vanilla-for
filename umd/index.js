@@ -1,0 +1,2 @@
+!function(e,n){"object"==typeof exports&&"undefined"!=typeof module?n(exports):"function"==typeof define&&define.amd?define(["exports"],n):n((e=e||self).Ob={})}(this,function(e){"use strict";e.For=function(o,e,i){e.forEach(function(e,n){var t=o.children.item(n);t?i(e,n,t):i(e,n)});for(var n=o.children.length,t=e.length;t<n;t++){var f=o.children.item(t);f&&f.remove()}},Object.defineProperty(e,"__esModule",{value:!0})});
+//# sourceMappingURL=index.js.map
