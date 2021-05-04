@@ -1,2 +1,2 @@
-function For(o,r,i){for(var e=o.children.length,n=r.length;n<e;n++){var t=o.children.item(n);t&&t.remove()}r.forEach(function(r,e){var n=o.children.item(e);n?i(r,e,n):i(r,e)})}export{For};
+function For(o,r,t){for(var e=o.children.length,n=r.length;n<e;n++){var i=o.children.item(n);i&&i.remove()}return r.forEach(function(r,e){var n=o.children.item(e);n?t(r,e,n):t(r,e)}),o}export{For};
 //# sourceMappingURL=index.js.map

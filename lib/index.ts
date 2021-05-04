@@ -20,4 +20,6 @@ export function For<T extends Array<V>, V>(
     }
     fn(v, i);
   });
+
+  return out;
 }
